@@ -85,6 +85,7 @@ Tools that find roles and submit applications for you. They save the most time a
 - [JobHire.AI](https://jobhire.ai) - Auto Apply submits to jobs that match your criteria around the clock, alongside a resume builder and tracker. Pricing is not shown on the site.
 - [Scale.jobs](https://scale.jobs) - Human assistants apply for you with a custom resume and cover letter per job. Paid, one-time from $399 for 500 applications.
 - [ApplyAll](https://www.applyall.com) - People check each job against your criteria and fill the forms, and it skips applications with open questions your resume can't answer. Paid, one-time from $249 for 100 applications, refunded if you get no qualifying interview within 30 days. Recruiter calls and automated screeners don't count as interviews, so read the terms.
+- [Sorce](https://www.sorce.jobs) - AI job-search app on iPhone, Android and web where you swipe on jobs and an agent applies for you on company career sites. Freemium, free daily applications, Sorce Pro from $14.99 a week or $39.99 a month.
 
 ## Resume builders and tailoring
 
