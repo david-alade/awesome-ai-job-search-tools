@@ -85,6 +85,7 @@ Tools that find roles and submit applications for you. They save the most time a
 - [JobHire.AI](https://jobhire.ai) - Auto Apply submits to jobs that match your criteria around the clock, alongside a resume builder and tracker. Pricing is not shown on the site.
 - [Scale.jobs](https://scale.jobs) - Human assistants apply for you with a custom resume and cover letter per job. Paid, one-time from $399 for 500 applications.
 - [ApplyAll](https://www.applyall.com) - People check each job against your criteria and fill the forms, and it skips applications with open questions your resume can't answer. Paid, one-time from $249 for 100 applications, refunded if you get no qualifying interview within 30 days. Recruiter calls and automated screeners don't count as interviews, so read the terms.
+- [Oaki AI](https://www.oaki.io) - Finds jobs on company career sites that fit your resume, tailors the resume and prepares the form answers for each one; a free Chrome extension fills the form for you to submit, and the Roots and Surge plans submit for you within daily limits. Paid, from $10 a week or $50 once, with a trial. Doesn't submit on Workday.
 - [Sorce](https://www.sorce.jobs) - AI job-search app on iPhone, Android and web where you swipe on jobs and an agent applies for you on company career sites. Freemium, free daily applications, Sorce Pro from $14.99 a week or $39.99 a month.
 
 ## Resume builders and tailoring
@@ -133,6 +134,7 @@ Most screening questions want two or three specific sentences, not a generated e
 
 Applying early matters more than applying often. These find roles; set alerts so you see new ones on day one.
 
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employers' own career pages (Greenhouse, Lever, Ashby, Workable and others). Free AI CV and cover-letter tailoring for every listed job, fact-checked against your own CV so nothing is invented. Filters for country, remote, visa sponsorship and English-speaking teams. Free.
 - [Jobright](https://jobright.ai) - AI job matches with alerts, tailored resumes, one-click autofill on major ATS platforms and alumni referral suggestions. Free plan available.
 - [Simplify](https://simplify.jobs) - Matches you with jobs, tailors your resume and tracks every application. Free core tools, Simplify+ paid.
 - [HiringCafe](https://hiring.cafe) - Job search engine across company career pages with detailed filters. Free.
